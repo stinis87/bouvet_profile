@@ -1,0 +1,57 @@
+name: Bouvet
+type: profile
+description: 'Install with commonly used features and must-have contrib modules pre-configured.'
+version: 1.0
+core: 8.x
+dependencies:
+  - node
+  - block
+  - breakpoint
+  - ckeditor
+  - color
+  - config
+  - contextual
+  - menu_link_content
+  - datetime
+  - block_content
+  - quickedit
+  - editor
+  - help
+  - image
+  - menu_ui
+  - options
+  - path
+  - page_cache
+  - dynamic_page_cache
+  - taxonomy
+  - dblog
+  - toolbar
+  - field_ui
+  - file
+  - rdf
+  - views
+  - views_ui
+  - automated_cron
+  # Contrib modules (requires extra downloading)
+  - admin_toolbar
+  - admin_toolbar_tools
+  - coffee
+  - devel
+  - diff
+  - google_analytics
+  - kint
+  - metatag
+  - pathauto
+  - redirect
+  - token
+  - config_split
+  - entity_browser
+  - entity_embed
+  - inline_entity_form
+  - linkit
+  - scheduler
+  - deploy
+  - field_group
+themes:
+  - bartik
+  - seven

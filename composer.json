@@ -1,0 +1,7 @@
+{
+  "name": "stinis87/bouvet_profile",
+  "type": "drupal-profile",
+  "description": "Drupal 8 installation profile for Bouvet.",
+  "homepage": "https://github.com/stinis87/bouvet_profile",
+  "license": "GPL-2.0+"
+}
