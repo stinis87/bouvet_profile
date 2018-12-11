@@ -1,0 +1,23 @@
+uuid: 3304eb4e-fbff-4d93-a4d5-6c835af77208
+langcode: en
+status: true
+dependencies:
+  config:
+    - media.type.video
+  module:
+    - entity_embed
+    - media
+label: Video
+id: video
+type_id: entity
+type_settings:
+  entity_type: media
+  bundles:
+    - video
+  display_plugins:
+    - 'view_mode:media.full'
+    - 'entity_reference:media_thumbnail'
+  entity_browser: video
+  entity_browser_settings:
+    display_review: false
+icon_uuid: null

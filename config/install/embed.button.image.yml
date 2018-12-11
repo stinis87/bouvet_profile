@@ -1,0 +1,22 @@
+uuid: e79ff17d-ad7c-42a6-903e-f08de12170ba
+langcode: en
+status: true
+dependencies:
+  config:
+    - media.type.image
+  module:
+    - entity_embed
+    - media
+label: Bilde
+id: image
+type_id: entity
+type_settings:
+  entity_type: media
+  bundles:
+    - image
+  display_plugins:
+    - 'entity_reference:media_thumbnail'
+  entity_browser: image
+  entity_browser_settings:
+    display_review: false
+icon_uuid: null

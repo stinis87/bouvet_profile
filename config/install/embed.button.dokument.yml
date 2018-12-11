@@ -1,0 +1,22 @@
+uuid: 5fcf96d1-f03b-4799-b035-68de09e72303
+langcode: en
+status: true
+dependencies:
+  config:
+    - media.type.file
+  module:
+    - entity_embed
+    - media
+label: Dokument
+id: dokument
+type_id: entity
+type_settings:
+  entity_type: media
+  bundles:
+    - file
+  display_plugins:
+    - 'view_mode:media.full'
+  entity_browser: document
+  entity_browser_settings:
+    display_review: false
+icon_uuid: null

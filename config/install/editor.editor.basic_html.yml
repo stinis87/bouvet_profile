@@ -22,8 +22,7 @@ settings:
         -
           name: Linking
           items:
-            - DrupalLink
-            - DrupalUnlink
+            - Linkit
         -
           name: Lists
           items:
@@ -32,24 +31,40 @@ settings:
         -
           name: Media
           items:
-            - Blockquote
-            - DrupalImage
+            - dokument
+            - image
+            - video
         -
           name: 'Block Formatting'
           items:
             - Format
+            - Table
         -
           name: Tools
           items:
             - Source
+            - Paste
+            - PasteText
+            - PasteFromWord
+        -
+          name: positioning
+          items:
+            - JustifyLeft
+            - JustifyCenter
+            - JustifyRight
+            - JustifyBlock
   plugins:
     stylescombo:
       styles: ''
+    language:
+      language_list: un
+    linkit:
+      linkit_profile: document
 image_upload:
   status: true
   scheme: public
   directory: inline-images
   max_size: ''
   max_dimensions:
-    width: 0
-    height: 0
+    width: null
+    height: null
