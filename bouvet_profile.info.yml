@@ -52,6 +52,9 @@ dependencies:
   - scheduler
   - deploy
   - field_group
+  - structure_sync
+  - content_sync
+  - drush_commands
 themes:
   - bartik
   - seven
