@@ -1,0 +1,42 @@
+uuid: 70b199fc-6396-41ef-973c-040fcb554a4a
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.media_entity_browser
+  module:
+    - entity_browser_entity_form
+    - views
+name: document
+label: Dokument
+display: iframe
+display_configuration:
+  width: '650'
+  height: '500'
+  link_text: 'Velg dokument'
+  auto_open: true
+selection_display: no_display
+selection_display_configuration: {  }
+widget_selector: tabs
+widget_selector_configuration: {  }
+widgets:
+  475931f5-172a-49e8-ac7d-5675a7b734c8:
+    settings:
+      entity_type: media
+      bundle: ''
+      form_mode: default
+      submit_text: 'Velg dokumenter'
+    uuid: 475931f5-172a-49e8-ac7d-5675a7b734c8
+    weight: 1
+    label: 'Last opp'
+    id: entity_form
+  e0b28fb9-38c5-497e-a0dc-8b7233871bc4:
+    settings:
+      view: media_entity_browser
+      view_display: entity_browser_document
+      submit_text: 'Velg dokumenter'
+      auto_select: false
+    uuid: e0b28fb9-38c5-497e-a0dc-8b7233871bc4
+    weight: 2
+    label: 'Velg eksisterende'
+    id: view

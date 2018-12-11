@@ -1,0 +1,54 @@
+uuid: 6c0dfc54-5453-4d18-b8d2-99f4fe3a9bba
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.media_entity_browser
+  module:
+    - bouvet_utils
+    - entity_browser_entity_form
+    - views
+name: video
+label: Video
+display: iframe
+display_configuration:
+  width: '650'
+  height: '500'
+  link_text: 'Velg eksisterende'
+  auto_open: true
+selection_display: no_display
+selection_display_configuration: {  }
+widget_selector: tabs
+widget_selector_configuration: {  }
+widgets:
+  e9fdd4a2-1cff-4d38-97fb-5841883845ab:
+    settings:
+      extensions: mp4
+      media_type: video
+      upload_location: 'public://video'
+      multiple: '1'
+      submit_text: 'Velg video'
+    uuid: e9fdd4a2-1cff-4d38-97fb-5841883845ab
+    weight: 1
+    label: 'Last opp video'
+    id: media_video_upload
+  b607591b-83d2-4b15-b2d8-540ae46894ed:
+    settings:
+      entity_type: media
+      bundle: ''
+      form_mode: default
+      submit_text: Velg
+    uuid: b607591b-83d2-4b15-b2d8-540ae46894ed
+    weight: 2
+    label: 'Embed video'
+    id: entity_form
+  b39bf289-4aa7-438b-8b7a-d2dbecb23e7f:
+    settings:
+      view: media_entity_browser
+      view_display: entity_browser_video
+      submit_text: 'Velg video'
+      auto_select: false
+    uuid: b39bf289-4aa7-438b-8b7a-d2dbecb23e7f
+    weight: 3
+    label: 'Velg eksisterende video'
+    id: view

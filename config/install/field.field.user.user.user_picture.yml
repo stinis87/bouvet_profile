@@ -1,3 +1,4 @@
+uuid: 21080593-dd53-4553-9227-c51717151f7b
 langcode: en
 status: true
 dependencies:
@@ -6,6 +7,8 @@ dependencies:
   module:
     - image
     - user
+_core:
+  default_config_hash: Iiq0AttdhgbebJwabSFwQQ1ORn64GoGz0xSZ_eyCJ8A
 id: user.user.user_picture
 field_name: user_picture
 entity_type: user
@@ -19,10 +22,10 @@ default_value_callback: ''
 settings:
   file_extensions: 'png gif jpg jpeg'
   file_directory: 'pictures/[date:custom:Y]-[date:custom:m]'
-  max_filesize: '30 KB'
+  max_filesize: ''
   alt_field: false
   title_field: false
-  max_resolution: 85x85
+  max_resolution: ''
   min_resolution: ''
   default_image:
     uuid: null

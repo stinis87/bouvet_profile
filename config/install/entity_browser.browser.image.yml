@@ -1,0 +1,42 @@
+uuid: ddca3752-0438-48b6-8802-8b6d999e9661
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.media_entity_browser
+  module:
+    - entity_browser_entity_form
+    - views
+name: image
+label: Bilde
+display: iframe
+display_configuration:
+  width: '650'
+  height: '500'
+  link_text: 'Velg bilde'
+  auto_open: true
+selection_display: no_display
+selection_display_configuration: {  }
+widget_selector: tabs
+widget_selector_configuration: {  }
+widgets:
+  297b03e1-947d-485c-aa84-a07cb04a8330:
+    settings:
+      entity_type: media
+      bundle: audio
+      form_mode: default
+      submit_text: 'Velg bilder'
+    uuid: 297b03e1-947d-485c-aa84-a07cb04a8330
+    weight: 1
+    label: 'Last opp'
+    id: entity_form
+  ebe9bb97-7f4b-43f8-8f31-ab361a9c694a:
+    settings:
+      view: media_entity_browser
+      view_display: entity_browser_image
+      submit_text: 'Velg bilder'
+      auto_select: false
+    uuid: ebe9bb97-7f4b-43f8-8f31-ab361a9c694a
+    weight: 2
+    label: 'Velg eksisterende bilde'
+    id: view
