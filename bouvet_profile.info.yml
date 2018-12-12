@@ -55,6 +55,7 @@ dependencies:
   - structure_sync
   - content_sync
   - drush_commands
+  - search_api
 themes:
   - bartik
   - seven
