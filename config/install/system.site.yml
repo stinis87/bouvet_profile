@@ -3,8 +3,8 @@ name: stinis
 mail: stinis87@gmail.com
 slogan: ''
 page:
-  403: ''
-  404: ''
+  403: /ikke-tilgang
+  404: /side-ikke-funnet
   front: /node
 admin_compact_mode: false
 weight_select_max: 100
