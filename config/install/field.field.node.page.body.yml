@@ -1,5 +1,5 @@
 uuid: a2e0f958-04b1-40c4-974e-12b8f1d9d167
-langcode: en
+langcode: nb
 status: true
 dependencies:
   config:
@@ -13,7 +13,7 @@ id: node.page.body
 field_name: body
 entity_type: node
 bundle: page
-label: Body
+label: Brødtekst
 description: ''
 required: false
 translatable: true

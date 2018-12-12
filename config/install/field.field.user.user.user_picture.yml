@@ -1,5 +1,5 @@
 uuid: 21080593-dd53-4553-9227-c51717151f7b
-langcode: en
+langcode: nb
 status: true
 dependencies:
   config:
@@ -13,7 +13,7 @@ id: user.user.user_picture
 field_name: user_picture
 entity_type: user
 bundle: user
-label: Picture
+label: Bilde
 description: 'Your virtual face or picture.'
 required: false
 translatable: true

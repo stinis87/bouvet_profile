@@ -1,11 +1,11 @@
 uuid: db3592d1-46de-4d5e-a321-24be8e441aae
-langcode: en
+langcode: nb
 status: true
 dependencies: {  }
 _core:
   default_config_hash: dJ0L2DNSj5q6XVZAGsuVDpJTh5UeYkIPwKrUOOpr8YI
 id: authenticated
-label: 'Authenticated user'
+label: 'Autentisert bruker'
 weight: 1
 is_admin: false
 permissions:

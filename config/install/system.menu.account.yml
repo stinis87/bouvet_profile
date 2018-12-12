@@ -1,10 +1,10 @@
 uuid: 087b72e9-62f1-452a-acee-aad24fe6df29
-langcode: en
+langcode: nb
 status: true
 dependencies: {  }
 _core:
   default_config_hash: M_Bh81osDyUQ4wV0GgU_NdBNqkzM87sLxjaCdFj9mnw
 id: account
-label: 'User account menu'
-description: 'Links related to the active user account'
+label: Brukerkonto-meny
+description: 'Lenker knyttet til den aktive brukerkontoen'
 locked: true

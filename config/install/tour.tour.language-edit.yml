@@ -1,0 +1,51 @@
+uuid: a8490c01-ac77-4fca-84b2-c011da3e6e26
+langcode: nb
+status: true
+dependencies:
+  module:
+    - language
+_core:
+  default_config_hash: uwUxQwqEzjNphw2r1_eXr3GJkw1uI0gWkmWQ6J5OvPI
+id: language-edit
+label: 'Rediger språk'
+module: language
+routes:
+  -
+    route_name: entity.configurable_language.edit_form
+tips:
+  language-edit-overview:
+    id: language-edit-overview
+    plugin: text
+    label: 'Rediger språk'
+    body: '<p>Denne sidenlar deg redigere et språk på nettstedet ditt, inkludert egendefinerte språk.</p>'
+    weight: 1
+  language-edit-langcode:
+    id: language-edit-langcode
+    plugin: text
+    label: Språkkode
+    body: '<p>Du kan ikke endre koden til et språk på nettstedet, siden det brukes av systemet til å holde styr på språket.</p>'
+    weight: 2
+    attributes:
+      data-id: edit-langcode-view
+  language-edit-label:
+    id: language-edit-label
+    plugin: text
+    label: Språk
+    body: '<p>Språknavnet er brukt gjennomgående for nettstedet for alle brukere, og er skrevet på engelsk. Navn på innebygde språk kan oversettes med modulen brukergrensesnittoversettelse, og navnene på både innebygde og egendefinerte språk kan oversettes ved hjelp av modulen konfigurasjonsoversettelse.</p>'
+    weight: 3
+    attributes:
+      data-id: edit-label
+  language-edit-direction:
+    id: language-edit-direction
+    plugin: text
+    label: Språkretning
+    body: '<p>Velg om skriveretning for språket er «venstre til høyre» eller «høyre til venstre».</p><p>Merk at ikke alle visningsmaler støtter «høyre til venstre»-oppsett, så test visningsmalen hvis du bruker «høyre til venstre».</p>'
+    weight: 4
+    attributes:
+      data-id: edit-direction--wrapper--description
+  language-edit-continue:
+    id: language-edit-continue
+    plugin: text
+    label: 'Fortsetter på'
+    body: "<p>Nå\_som du har oversikt over funksjonen «Legg til språk», kan du fortsette med å:<ul><li>Redigere et språk</li><li><a href=\"[site:url]admin/config/regional/language\">Vise språkene som er konfigurert</a></li></ul></p>"
+    weight: 5

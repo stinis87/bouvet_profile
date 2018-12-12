@@ -1,0 +1,75 @@
+uuid: 39c42843-391a-4521-bbb8-4f10abe947b3
+langcode: nb
+status: true
+dependencies:
+  module:
+    - locale
+_core:
+  default_config_hash: IGyq02Zgyl_6WJczNqeYnXXQR_B_iM-yyOFXOUmVpLk
+id: locale
+label: Oversettelse
+module: locale
+routes:
+  -
+    route_name: locale.translate_page
+tips:
+  locale-overview:
+    id: locale-overview
+    plugin: text
+    label: 'Oversett brukergrensesnittet'
+    body: 'Denne siden lar deg oversette brukergrensesnittet og endre eksisterende oversettelser. Hvis du først har installert nettstedet ditt på engelsk, må du først legge til et annet språk på <a href="[site:url]admin/config/regional/language">språksiden</a> for å kunne bruke denne siden.'
+    weight: 1
+  locale-language:
+    id: locale-language
+    plugin: text
+    label: 'Språk for oversettelse'
+    body: 'Velg språket du vil oversette.'
+    weight: 2
+    attributes:
+      data-id: edit-langcode
+  locale-search:
+    id: locale-search
+    plugin: text
+    label: Søk
+    body: 'Skriv inn bestemt ord eller en setning du vil oversette. Du kan også skrive inn kun en del av et ord.'
+    weight: 3
+    attributes:
+      data-id: edit-string
+  locale-filter:
+    id: locale-filter
+    plugin: text
+    label: 'Filtrer søket'
+    body: 'Du kan søke etter strenger som ikke er oversatte hvis du ønsker å oversette noe som ikke er oversatt ennå. Hvis du vil endre en eksisterende oversettelse, kan det være lurt å søke etter bare oversatte strenger.'
+    weight: 4
+    attributes:
+      data-id: edit-translation
+  locale-submit:
+    id: locale-submit
+    plugin: text
+    label: 'Bruk søkekriteriene'
+    body: 'For å bruke søkekriteriene, klikker du på <em>filter</em>-knappen.'
+    weight: 5
+    attributes:
+      data-id: edit-submit
+  locale-translate:
+    id: locale-translate
+    plugin: text
+    label: Oversett
+    body: 'Du kan skrive din egen oversettelse i tekstfeltene i høyre kolonne. Prøv å finne ut i hvilken sammenheng teksten vil bli brukt for å oversette det på riktig måte.'
+    weight: 6
+    attributes:
+      data-class: js-form-type-textarea
+  locale-validate:
+    id: locale-validate
+    plugin: text
+    label: 'Valider oversettelsen'
+    body: 'Når du har fullført oversettelsen, klikker du på knappen <em>Lagre oversettelser</em>. Du må alltid lagre dine oversettelser før du skifter side eller gjøre et nytt søk.'
+    weight: 7
+    attributes:
+      data-id: edit-submit--2
+  locale-continue:
+    id: locale-continue
+    plugin: text
+    label: 'Fortsetter på'
+    body: 'Oversettelsene du har opprettet her blir brukt i brukergrensesnittet på nettstedet ditt. Hvis du vil bruke dem på et annet nettsted eller endre dem i et eksternt oversettelsesprogram, kan du <a href="[site:url]admin/config/regional/translate/export">eksportere dem</a> til en.po-fil og <a href="[site:url]admin/config/regional/translate/import">importere dem</a> senere.'
+    weight: 8

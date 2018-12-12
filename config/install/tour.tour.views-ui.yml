@@ -1,5 +1,5 @@
 uuid: 20774d7c-ea54-4572-9139-aa21008b4ef6
-langcode: en
+langcode: nb
 status: true
 dependencies:
   module:
@@ -7,7 +7,7 @@ dependencies:
 _core:
   default_config_hash: c-HMyZwgeP8H6AITDcq4hznePkd7azpe8xl_WTnx2O0
 id: views-ui
-label: 'View edit page'
+label: 'Vis redigeringsside'
 module: views_ui
 routes:
   -
@@ -18,22 +18,22 @@ tips:
   views-main:
     id: views-main
     plugin: text
-    label: 'Manage view settings'
-    body: 'View or edit the configuration.'
+    label: 'Rediger innstillinger for visning'
+    body: 'Vis eller rediger konfigurasjonen'
     weight: 1
   views-ui-displays:
     id: views-ui-displays
     plugin: text
-    label: 'Displays in this view'
-    body: 'A display is a way of outputting the results, e.g., as a page or a block. A view can contain multiple displays, which are listed here. The active display is highlighted.'
+    label: 'Vis i visning'
+    body: 'En fremvisning er en måte å vise resultatene på, for eksempel som en side eller en blokk. En visning kan inneholde flere fremvisninger, som er oppført her. Den aktive fremvisningen er uthevet.'
     weight: 2
     attributes:
       data-id: views-display-top
   views-ui-view-admin:
     id: views-ui-view-admin
     plugin: text
-    label: 'View administration'
-    body: 'Perform administrative tasks, including adding a description and creating a clone. Click the drop-down button to view the available options.'
+    label: 'Vis administrasjon'
+    body: 'Utfør administrative oppgaver, inkludert å legge til beskrivelse og lage en kopi/klone. Klikk på rullegardin-knappen for å vise alternativene som er tilgjengelige.'
     weight: 3
     location: left
     attributes:
@@ -41,56 +41,56 @@ tips:
   views-ui-format:
     id: views-ui-format
     plugin: text
-    label: 'Output format'
-    body: 'Choose how to output results. E.g., choose <em>Content</em> to output each item completely, using your configured display settings. Or choose <em>Fields</em>, which allows you to output only specific fields for each result. Additional formats can be added by installing modules to <em>extend</em> Drupal''s base functionality.'
+    label: Visningsformat
+    body: 'Velg hvordan resultater skal vises. F.eks velg <em>Innhold</em> for å vise et komplett element, ved hjelp av de konfigurerte innstillingene for fremvisningen. Eller velg <em>Felt</em>, som lar deg vise enkelte felt for hvert resultat. Andre formater kan legges ved å installere moduler for å <em>utvide</em> basisfunksjonaliteten i Drupal.'
     weight: 4
     attributes:
       data-class: views-ui-display-tab-bucket.format
   views-ui-fields:
     id: views-ui-fields
     plugin: text
-    label: Fields
-    body: 'If this view uses fields, they are listed here. You can click on a field to configure it.'
+    label: Felt
+    body: 'Hvis denne visningen bruker felt, er de oppført her. Du kan klikke på et felt for å konfigurere det.'
     weight: 5
     attributes:
       data-class: views-ui-display-tab-bucket.field
   views-ui-filter:
     id: views-ui-filter
     plugin: text
-    label: 'Filter your view'
-    body: 'Add filters to limit the results in the output. E.g., to only show content that is <em>published</em>, you would add a filter for <em>Published</em> and select <em>Yes</em>.'
+    label: 'Filtrer visningen'
+    body: 'Legg til filtre for å begrense resultatene som vises. F.eks kan du vise kun innhold som er <em>publisert</em>, ved å legge til et filter for <em>Publisert</em> og velge <em>Ja</em>.'
     weight: 6
     attributes:
       data-class: views-ui-display-tab-bucket.filter
   views-ui-filter-operations:
     id: views-ui-filter-operations
     plugin: text
-    label: 'Filter actions'
-    body: 'Add, rearrange or remove filters.'
+    label: Filterhandlinger
+    body: 'Legge til, flytte eller fjerne filtre.'
     weight: 7
     attributes:
       data-class: 'views-ui-display-tab-bucket.filter .dropbutton-widget'
   views-ui-sorts:
     id: views-ui-sorts
     plugin: text
-    label: 'Sort Criteria'
-    body: 'Control the order in which the results are output. Click on an active sort rule to configure it.'
+    label: Sorteringskriterium
+    body: 'Kontroller rekkefølgen for resultatene som vises. Klikk på en aktiv sorteringsregel for å konfigurere den.'
     weight: 8
     attributes:
       data-class: views-ui-display-tab-bucket.sort
   views-ui-sorts-operations:
     id: views-ui-sorts-operations
     plugin: text
-    label: 'Sort actions'
-    body: 'Add, rearrange or remove sorting rules.'
+    label: Sorteringshandlinger
+    body: 'Legge til, flytte eller fjerne sorteringsregler.'
     weight: 9
     attributes:
       data-class: 'views-ui-display-tab-bucket.sort .dropbutton-widget'
   views-ui-preview:
     id: views-ui-preview
     plugin: text
-    label: Preview
-    body: 'Show a preview of the view output.'
+    label: Forhåndsvisning
+    body: 'Se forhåndsvisning av resultatet for visningen.'
     weight: 10
     location: left
     attributes:

@@ -1,10 +1,10 @@
 uuid: 4ad888e0-1c23-4c53-be7a-b01f9c23a059
-langcode: en
+langcode: nb
 status: true
 dependencies: {  }
 _core:
   default_config_hash: jxfClwZIRXIdcvMrE--WkcZxDGUVoOIE3Sm2NRZlFuE
 id: html_datetime
-label: 'HTML Datetime'
+label: 'HTML dato og tid'
 locked: true
 pattern: 'Y-m-d\TH:i:sO'

@@ -1,5 +1,5 @@
 uuid: a5157cf1-2f64-48c8-a804-0e8490b98381
-langcode: en
+langcode: nb
 status: false
 dependencies:
   module:
@@ -7,6 +7,6 @@ dependencies:
 _core:
   default_config_hash: ElrtInxGjZd7GaapJ5O9n-ugi2hG2IxFivtgn0tHOsk
 id: node.full
-label: 'Full content'
+label: 'Fullstendig innhold'
 targetEntityType: node
 cache: true

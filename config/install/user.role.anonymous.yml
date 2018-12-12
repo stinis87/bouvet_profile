@@ -1,11 +1,11 @@
 uuid: e01370ca-a2e1-4167-903a-4dd62c1b5e1c
-langcode: en
+langcode: nb
 status: true
 dependencies: {  }
 _core:
   default_config_hash: j5zLMOdJBqC0bMvSdth5UebkprJB8g_2FXHqhfpJzow
 id: anonymous
-label: 'Anonymous user'
+label: 'Anonym bruker'
 weight: 0
 is_admin: false
 permissions:

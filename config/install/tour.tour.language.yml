@@ -1,0 +1,59 @@
+uuid: 1837c9f3-c0c8-4694-9b87-4a5956333762
+langcode: nb
+status: true
+dependencies:
+  module:
+    - language
+_core:
+  default_config_hash: K3KVksdkREnIdd2idoIA9TDHQew_WreFzTG-DHmz9Z4
+id: language
+label: Språk
+module: language
+routes:
+  -
+    route_name: entity.configurable_language.collection
+tips:
+  language-overview:
+    id: language-overview
+    plugin: text
+    label: Språk
+    body: '<p>På «språk»-siden kan du legge til, redigere, slette og endre rekkefølgen for språk for nettstedet.</p>'
+    weight: 1
+  language-add:
+    id: language-add
+    plugin: text
+    label: 'Legge til språk'
+    body: '<p>For å legge til flere språk på nettstedet ditt, klikk på knappen «Legg til et språk».</p><p>Språket du legger til vil bli vist i språklisten og kan redigeres eller slettes.</p>'
+    weight: 2
+    attributes:
+      data-class: button-action
+  language-reorder:
+    id: language-reorder
+    plugin: text
+    label: 'Endre rekkefølgen for språk'
+    body: '<p>For å endre rekkefølgen av språkene på nettstedet ditt, kan du bruke flytte-ikonene ved siden av hvert språk.</p><p>Den rekkefølgen som vises her er visningsrekkefølgen for lister med språk på nettstedet, for eksempel språkvelger-blokker som tilbys av modulene brukergrensesnittoversettelse og innholdsoversettelse.</p><p>Når du har valgt rekkefølge for språkene, må du klikk på knappen «Lagre konfigurasjon» for at endringene skal tre i kraft.</p>'
+    weight: 3
+    attributes:
+      data-class: draggable
+  language-default:
+    id: language-default
+    plugin: text
+    label: 'Velg et standard språk'
+    body: '<p>Du kan endre nettstedets standardspråk ved å velge et av de konfigurerte språkene som standard. Nettstedet vil benytte standardspråk når ingen språk er valgt. Det er anbefalt at et språk alltid er valgt, for eksempel som språket for grensesnittet.</p>'
+    weight: 4
+    attributes:
+      data-class: js-form-item-site-default-language
+  language-operations:
+    id: language-operations
+    plugin: text
+    label: 'Rediger språk'
+    body: '<p>Operasjoner er tilgjengelig for redigering og sletting av språk.</p><p>Du kan endre navn og retning for språket.</p><p>Slettede språk kan legges tilbake på et senere tidspunkt. Sletting av et språk vil fjerne alle grensesnittoversettelser forbundet med det, og innholdet skrevet for dette språket vil bli satt til å være språknøytrale. Merk at du ikke kan slette standardspråk for nettstedet.</p>'
+    weight: 5
+    attributes:
+      data-class: dropbutton-wrapper
+  language-continue:
+    id: language-continue
+    plugin: text
+    label: 'Fortsetter på'
+    body: '<p> Nå som du har oversikt over sida «Språk», kan du fortsette med å:<ul><li><a href="[site:url]admin/config/regional/language/add">Legge til et språk</a></li><li>Endre prioritert rekkefølge for språkene</li><li>Redigere et språk</li><li>Slette et språk</li></ul></p>'
+    weight: 6

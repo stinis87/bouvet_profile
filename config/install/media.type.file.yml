@@ -1,12 +1,12 @@
 uuid: 44469599-ec50-4493-a3fa-1bf3b8c9a8a6
-langcode: en
+langcode: nb
 status: true
 dependencies: {  }
 _core:
   default_config_hash: s6qJnINiq7zI-ZoQOXM_gtiDpIsHT3fm7RySP1F_BE0
 id: file
-label: File
-description: 'Use local files for reusable media.'
+label: Fil
+description: 'Bruk lokale filer for gjenbrukbare medier.'
 source: file
 queue_thumbnail_downloads: false
 new_revision: true

@@ -1,12 +1,12 @@
 uuid: ac629da6-45c5-48f1-b2b4-e7928995350f
-langcode: en
+langcode: nb
 status: true
 dependencies: {  }
 _core:
   default_config_hash: RQ75tMARZvKiI0hge9SKZpZFi-dOzZyq0nlouHHBeLM
 id: audio
-label: Audio
-description: 'A locally hosted audio file.'
+label: Lyd
+description: 'En lydfil som er lagret lokalt påserveren.'
 source: audio_file
 queue_thumbnail_downloads: false
 new_revision: true

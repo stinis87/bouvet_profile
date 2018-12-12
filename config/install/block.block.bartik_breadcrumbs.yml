@@ -1,5 +1,5 @@
 uuid: cede28b7-12d3-4c18-91e7-d7a8d9e6eb58
-langcode: en
+langcode: nb
 status: true
 dependencies:
   module:
@@ -16,7 +16,7 @@ provider: null
 plugin: system_breadcrumb_block
 settings:
   id: system_breadcrumb_block
-  label: Breadcrumbs
+  label: Navigasjonssti
   provider: system
   label_display: '0'
 visibility: {  }

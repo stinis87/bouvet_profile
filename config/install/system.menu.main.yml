@@ -1,10 +1,10 @@
 uuid: 37515890-8306-4ee7-993a-50867aa31569
-langcode: en
+langcode: nb
 status: true
 dependencies: {  }
 _core:
   default_config_hash: Q2Ra3jfoIVk0f3SjxJX61byRQFVBAbpzYDQOiY-kno8
 id: main
-label: 'Main navigation'
-description: 'Site section links'
+label: Hovednavigasjon
+description: 'Lenker for nettsted-deler'
 locked: true

@@ -1,12 +1,12 @@
 uuid: ce7a6346-dc0b-49f7-bf1f-f2b43c9f6cfd
-langcode: en
+langcode: nb
 status: true
 dependencies: {  }
 _core:
   default_config_hash: u7OxrscEED35iDR3R0akmw7QNvBSMEPJXFtKP57qBh8
 id: image
-label: Image
-description: 'Use local images for reusable media.'
+label: Bilde
+description: 'Bruk lokale bilder for gjenbrukbare medier.'
 source: image
 queue_thumbnail_downloads: false
 new_revision: true

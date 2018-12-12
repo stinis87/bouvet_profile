@@ -1,5 +1,5 @@
 uuid: ef9160c0-ed0b-4800-b2da-e868388a022d
-langcode: en
+langcode: nb
 status: true
 dependencies:
   config:
@@ -23,6 +23,7 @@ content:
     region: content
 hidden:
   created: true
+  langcode: true
   name: true
   thumbnail: true
   uid: true

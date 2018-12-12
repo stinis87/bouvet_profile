@@ -1,5 +1,5 @@
 uuid: 03898b5e-d415-451a-8333-8d4dc537b9a6
-langcode: en
+langcode: nb
 status: true
 dependencies:
   config:
@@ -16,7 +16,7 @@ id: media.file.field_media_file
 field_name: field_media_file
 entity_type: media
 bundle: file
-label: File
+label: Fil
 description: ''
 required: true
 translatable: true

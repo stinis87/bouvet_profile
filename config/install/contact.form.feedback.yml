@@ -1,5 +1,5 @@
 uuid: 4db94856-9672-4445-822d-0bc2948b6ea8
-langcode: en
+langcode: nb
 status: true
 dependencies: {  }
 _core:
@@ -10,5 +10,5 @@ recipients:
   - stinis87@gmail.com
 reply: ''
 weight: 0
-message: 'Your message has been sent.'
+message: 'Din melding har blitt sendt.'
 redirect: ''

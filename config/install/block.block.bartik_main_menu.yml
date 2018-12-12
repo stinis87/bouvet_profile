@@ -1,5 +1,5 @@
 uuid: ca70266e-7b18-4fbc-ac65-9ca6f049728f
-langcode: en
+langcode: nb
 status: true
 dependencies:
   config:
@@ -18,7 +18,7 @@ provider: null
 plugin: 'system_menu_block:main'
 settings:
   id: 'system_menu_block:main'
-  label: 'Main navigation'
+  label: Hovednavigasjon
   provider: system
   label_display: '0'
   level: 1

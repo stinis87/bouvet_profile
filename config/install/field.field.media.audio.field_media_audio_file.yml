@@ -1,5 +1,5 @@
 uuid: ab3b6969-ab81-45f6-83e7-6d687e50ad3c
-langcode: en
+langcode: nb
 status: true
 dependencies:
   config:
@@ -13,7 +13,7 @@ id: media.audio.field_media_audio_file
 field_name: field_media_audio_file
 entity_type: media
 bundle: audio
-label: 'Audio file'
+label: Lydfil
 description: ''
 required: true
 translatable: true

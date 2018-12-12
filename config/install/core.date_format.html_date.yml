@@ -1,10 +1,10 @@
 uuid: 5d83fedc-3faf-483c-866f-a1c8cdf7101d
-langcode: en
+langcode: nb
 status: true
 dependencies: {  }
 _core:
   default_config_hash: EOQltUQPmgc6UQ2rcJ4Xi_leCEJj5ui0TR-12duS-Tk
 id: html_date
-label: 'HTML Date'
+label: 'HTML dato'
 locked: true
 pattern: Y-m-d

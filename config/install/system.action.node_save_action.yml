@@ -1,5 +1,5 @@
 uuid: c733b363-ee14-46f3-934d-0cbe26f3a370
-langcode: en
+langcode: nb
 status: true
 dependencies:
   module:
@@ -7,7 +7,7 @@ dependencies:
 _core:
   default_config_hash: LhdsoZPL_pFas2fjaAWue4zvrQ_tEVofLYtcNec-JGM
 id: node_save_action
-label: 'Save content'
+label: 'Lagre innholdstypen'
 type: node
 plugin: 'entity:save_action:node'
 configuration: {  }

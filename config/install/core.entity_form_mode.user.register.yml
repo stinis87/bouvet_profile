@@ -1,5 +1,5 @@
 uuid: 2403f547-4b1e-4849-b6e1-076f827a3ed1
-langcode: en
+langcode: nb
 status: true
 dependencies:
   module:
@@ -7,6 +7,6 @@ dependencies:
 _core:
   default_config_hash: flXhTcp55yLcyy7ZLOhPGKGZobZQJdkAFVWV3LseiuI
 id: user.register
-label: Register
+label: Registrer
 targetEntityType: user
 cache: true

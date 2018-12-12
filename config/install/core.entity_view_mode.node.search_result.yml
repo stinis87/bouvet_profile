@@ -1,5 +1,5 @@
 uuid: 5937cb3a-68c6-4b59-8480-c9cc14712683
-langcode: en
+langcode: nb
 status: false
 dependencies:
   module:
@@ -7,6 +7,6 @@ dependencies:
 _core:
   default_config_hash: 6GCOQ-jP2RbdbHA5YWQ6bT8CfGbqrBYKOSC_XY4E3ZM
 id: node.search_result
-label: 'Search result highlighting input'
+label: 'Utheving av innskrevet søkeresultat'
 targetEntityType: node
 cache: true
