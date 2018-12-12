@@ -57,6 +57,7 @@ dependencies:
   - drush_commands
   - search_api
   - search_api_attachments
+  - facets
 themes:
   - bartik
   - seven
