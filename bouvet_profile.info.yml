@@ -4,61 +4,79 @@ description: 'Install with commonly used features and must-have contrib modules 
 version: 1.0
 core: 8.x
 dependencies:
-  - node
+  - admin_toolbar
+  - automated_cron
+  - big_pipe
   - block
+  - block_content
+  - drush_commands
+  - bouvet_utils
   - breakpoint
   - ckeditor
-  - color
-  - config
-  - contextual
-  - menu_link_content
-  - datetime
-  - block_content
-  - quickedit
-  - editor
-  - help
-  - image
-  - menu_ui
-  - options
-  - path
-  - page_cache
-  - dynamic_page_cache
-  - taxonomy
-  - dblog
-  - toolbar
-  - field_ui
-  - file
-  - rdf
-  - views
-  - views_ui
-  - automated_cron
-  - media
-  # Contrib modules (requires extra downloading)
-  - admin_toolbar
-  - admin_toolbar_tools
   - coffee
+  - color
+  - comment
+  - config
+  - contact
+  - contextual
+  - ctools
+  - datetime
+  - dblog
   - devel
   - diff
-  - google_analytics
-  - kint
-  - metatag
-  - pathauto
-  - redirect
-  - token
-  - config_split
+  - dynamic_page_cache
+  - editor
+  - embed
   - entity_browser
+  - entity_browser_entity_form
   - entity_embed
-  - inline_entity_form
-  - linkit
-  - scheduler
-  - deploy
+  - facets
+  - field
   - field_group
-  - structure_sync
-  - content_sync
-  - drush_commands
+  - field_ui
+  - file
+  - filter
+  - help
+  - history
+  - image
+  - inline_entity_form
+  - kint
+  - language
+  - link
+  - linkit
+  - locale
+  - media
+  - menu_ui
+  - metatag
+  - node
+  - options
+  - page_cache
+  - path
+  - quickedit
+  - rdf
+  - redirect
+  - redirect_404
+  - scheduler
+  - search
   - search_api
   - search_api_attachments
-  - facets
+  - search_api_db
+  - shortcut
+  - structure_sync
+  - system
+  - taxonomy
+  - text
+  - token
+  - toolbar
+  - tour
+  - update
+  - user
+  - views_ui
+  - menu_link_content
+  - pathauto
+  - views
 themes:
+  - stable
+  - classy
   - bartik
   - seven
