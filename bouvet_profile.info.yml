@@ -32,6 +32,7 @@ dependencies:
   - views
   - views_ui
   - automated_cron
+  - media
   # Contrib modules (requires extra downloading)
   - admin_toolbar
   - admin_toolbar_tools
