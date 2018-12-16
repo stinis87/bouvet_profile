@@ -1,0 +1,20 @@
+uuid: 09699d0e-b5cc-47c1-946d-e34734abc515
+langcode: nb
+status: true
+dependencies:
+  theme:
+    - bouvet
+_core:
+  default_config_hash: RDHcpeVLhSrsy05Y0I_gzTTwvkXHmRF22q1ijNREg6w
+id: bouvet_page_title
+theme: bouvet
+region: content
+weight: -50
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: Sidetittel
+  provider: core
+  label_display: '0'
+visibility: {  }

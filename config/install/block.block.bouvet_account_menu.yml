@@ -1,0 +1,26 @@
+uuid: 5d61c0d5-1de5-42a2-a289-5e85bb47be58
+langcode: nb
+status: true
+dependencies:
+  config:
+    - system.menu.account
+  module:
+    - system
+  theme:
+    - bouvet
+_core:
+  default_config_hash: GuwpXHKFlvPRNwfCGjw0qSCK0VyBotkJkCaXNa_lzm4
+id: bouvet_account_menu
+theme: bouvet
+region: content
+weight: 0
+provider: null
+plugin: 'system_menu_block:account'
+settings:
+  id: 'system_menu_block:account'
+  label: Brukerkonto-meny
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 1
+visibility: {  }

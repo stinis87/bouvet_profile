@@ -1,0 +1,26 @@
+uuid: 474f07ca-69c3-4082-b026-912a8d058d00
+langcode: nb
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - bouvet
+_core:
+  default_config_hash: EuIwlPKxLWFnVr74CcI1x1MWaf_S8m7TwikvCRfoDwQ
+id: bouvet_main_menu
+theme: bouvet
+region: content
+weight: 0
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: Hovednavigasjon
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 1
+visibility: {  }

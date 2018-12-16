@@ -1,0 +1,22 @@
+uuid: 3432bec6-14dc-4bcd-8516-c47e9cc86066
+langcode: nb
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - bouvet
+_core:
+  default_config_hash: 4WQD-1lBk32Zx52gjkpIGglNqfccYC95a9lKim9Dcgk
+id: bouvet_help
+theme: bouvet
+region: content
+weight: -30
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Hjelp
+  provider: help
+  label_display: '0'
+visibility: {  }

@@ -1,0 +1,22 @@
+uuid: 58a173c9-7d18-4926-9049-ed1adbdb4f81
+langcode: nb
+status: true
+dependencies:
+  theme:
+    - bouvet
+_core:
+  default_config_hash: BXsZRTFuIl0x5rVNGGmCGIGg30EMxe3W74Oe8n6iXgo
+id: bouvet_local_tasks
+theme: bouvet
+region: content
+weight: -40
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Faner
+  provider: core
+  label_display: '0'
+  primary: true
+  secondary: true
+visibility: {  }

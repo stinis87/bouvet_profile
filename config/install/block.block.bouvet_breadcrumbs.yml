@@ -1,0 +1,22 @@
+uuid: d215f99e-991b-4422-a7d7-3406976c5743
+langcode: nb
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - bouvet
+_core:
+  default_config_hash: Q3YB6NoM4WivP-lJTJkTY0sYnqKsvsIXOJl281z9LUg
+id: bouvet_breadcrumbs
+theme: bouvet
+region: breadcrumb
+weight: 0
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Navigasjonssti
+  provider: system
+  label_display: '0'
+visibility: {  }

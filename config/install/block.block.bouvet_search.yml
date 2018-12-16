@@ -1,0 +1,22 @@
+uuid: bdeffb0b-8324-4395-992a-5b7a649945d8
+langcode: nb
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - bouvet
+_core:
+  default_config_hash: 5h_we1_FzjcayoIzax1QnmaMcveg2wMITnN2vlqCL6Y
+id: bouvet_search
+theme: bouvet
+region: content
+weight: -1
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: Søk
+  provider: search
+  label_display: visible
+visibility: {  }

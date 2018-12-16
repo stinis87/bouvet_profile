@@ -1,0 +1,20 @@
+uuid: b2acace1-224b-4062-b2e0-9ed4cdab86be
+langcode: nb
+status: true
+dependencies:
+  theme:
+    - bouvet
+_core:
+  default_config_hash: 4DRdhvsNpwUCf2qxA_4aZSKMZO3EECkTG73I6mwEY5I
+id: bouvet_local_actions
+theme: bouvet
+region: content
+weight: -20
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primære administratorhandlinger'
+  provider: core
+  label_display: '0'
+visibility: {  }

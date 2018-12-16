@@ -1,0 +1,25 @@
+uuid: 1605023d-3ac8-47a2-ba1a-ea08071f62fd
+langcode: nb
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - bouvet
+_core:
+  default_config_hash: '--QiJW5B1HP-zk7CT8Ynow5HOOHceVBoCYN5yKXW36Y'
+id: bouvet_branding
+theme: bouvet
+region: header
+weight: 0
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Nettstedets profilelementer'
+  provider: system
+  label_display: '0'
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: true
+visibility: {  }

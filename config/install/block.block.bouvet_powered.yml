@@ -1,0 +1,22 @@
+uuid: 6874f0b7-74ca-4fc6-b402-6c825c51c512
+langcode: nb
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - bouvet
+_core:
+  default_config_hash: nbKC6BqXBcRbWR851M0hBemEUXoAE-f__-rS0iTD564
+id: bouvet_powered
+theme: bouvet
+region: content
+weight: 10
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Laget med Drupal'
+  provider: system
+  label_display: '0'
+visibility: {  }

@@ -1,0 +1,22 @@
+uuid: 921c25cd-6924-4b0a-8c49-627a94464461
+langcode: nb
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - bouvet
+_core:
+  default_config_hash: Nt0c0yDUSKPOkMGa_kLrJXj1ZJWs_SiIHqLlk81VdRo
+id: bouvet_messages
+theme: bouvet
+region: highlighted
+weight: 0
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }

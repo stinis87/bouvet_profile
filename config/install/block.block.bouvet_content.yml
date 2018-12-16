@@ -1,0 +1,22 @@
+uuid: c284f649-ca74-45fb-b0d8-4e96eb43535b
+langcode: nb
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - bouvet
+_core:
+  default_config_hash: CEHw91Qd5saX0EqDwosTzDPeYBJhI_yBbVxOelRvhm0
+id: bouvet_content
+theme: bouvet
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: Hovedsideinnhold
+  provider: system
+  label_display: '0'
+visibility: {  }
