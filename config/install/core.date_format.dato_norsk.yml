@@ -2,6 +2,8 @@ uuid: c86d0530-96a9-45f2-9019-0dd8663bf243
 langcode: nb
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: INuM3ZjqXrmyvvO4v5SsaAEwpJ4aKNl4cFYi4ssbjoI
 id: dato_norsk
 label: dato-norsk
 locked: false

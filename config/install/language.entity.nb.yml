@@ -2,6 +2,8 @@ uuid: c9979c0c-f757-46f0-a237-2217fcc90a69
 langcode: nb
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: uGaZs49G9MZvoa3S8V6Q3yh8AMhSNeuxVo0Bz9J4980
 id: nb
 label: 'Norwegian Bokmål'
 direction: ltr

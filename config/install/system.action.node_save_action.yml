@@ -5,7 +5,7 @@ dependencies:
   module:
     - node
 _core:
-  default_config_hash: LhdsoZPL_pFas2fjaAWue4zvrQ_tEVofLYtcNec-JGM
+  default_config_hash: ejWajeiyymqjN5lX7jBJ3RH9lGq_sXW_KJ9mp3IVJd4
 id: node_save_action
 label: 'Lagre innholdstypen'
 type: node

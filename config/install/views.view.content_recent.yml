@@ -6,7 +6,7 @@ dependencies:
     - node
     - user
 _core:
-  default_config_hash: sqwEJaSgef4rCaRMf-JdNAdV_kCICU1SfQh5Wl2sUrc
+  default_config_hash: o1sCQ09FvCT6mTPei1vbFyJRsgWwEn19lLOL9noaIdg
 id: content_recent
 label: 'Siste innlegg'
 module: node

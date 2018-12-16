@@ -6,7 +6,7 @@ dependencies:
     - block_content
     - user
 _core:
-  default_config_hash: BmeDSOTSaTVy5QLgxgJ5ye_ZseG5t88JXRP1apFoBkk
+  default_config_hash: ideH6OW6EuP61Q8yFeciAKU2sE0sPoXDoj6Qnh13YpQ
 id: block_content
 label: 'Bibliotek med egendefinerte blokker'
 module: views

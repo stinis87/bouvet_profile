@@ -6,7 +6,7 @@ dependencies:
     - editor
     - entity_embed
 _core:
-  default_config_hash: P8ddpAIKtawJDi5SzOwCzVnnNYqONewSTJ6Xn0dW_aQ
+  default_config_hash: 1I36n_D2aylCsaFXfl83exLL7BDwn6alJ3KduOAERmg
 name: 'Basic HTML'
 format: basic_html
 weight: 0

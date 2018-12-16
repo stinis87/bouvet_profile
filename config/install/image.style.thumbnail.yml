@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: cCiWdBHgLwj5omG35lsKc4LkW4MBdmcctkVop4ol5x0
+  default_config_hash: isl-ndomogXDbh_E7flTyvDNT-oIEdcp0Wa2AGysHe0
 name: thumbnail
 label: 'Miniatyrbilde (100×100)'
 effects:

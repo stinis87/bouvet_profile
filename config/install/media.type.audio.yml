@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: RQ75tMARZvKiI0hge9SKZpZFi-dOzZyq0nlouHHBeLM
+  default_config_hash: ktXZkOFKYx-b0AuRHAlsbwq1x5QW1yTqKGdeeNOPKXA
 id: audio
 label: Lyd
 description: 'En lydfil som er lagret lokalt påserveren.'

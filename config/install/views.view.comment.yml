@@ -6,7 +6,7 @@ dependencies:
     - comment
     - user
 _core:
-  default_config_hash: cCq1vjj1qmyd39oBIUyOe8YPDsobJ5fZRhp2Xy5O7lA
+  default_config_hash: uAhybR2fHhi9frYx4BpyhtgfzXcIjj96gPSN05mkJA8
 id: comment
 label: Kommentarer
 module: comment

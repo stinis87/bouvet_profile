@@ -5,7 +5,7 @@ dependencies:
   module:
     - taxonomy
 _core:
-  default_config_hash: '-PPKjsNQPvoIDjOuUAvlLocYD976MNjb9Zpgyz5_BWE'
+  default_config_hash: MtkwpbNMOhyVbVRn0uWUvGTY2UCWMxuLkyiyJB61F7U
 id: taxonomy_term.full
 label: 'Side for taksonomiord'
 targetEntityType: taxonomy_term

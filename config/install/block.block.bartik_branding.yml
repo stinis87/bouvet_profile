@@ -7,7 +7,7 @@ dependencies:
   theme:
     - bartik
 _core:
-  default_config_hash: NDwadleLD3YVSbDUaakxyYZyINYtkFtOVGShfq4kWy8
+  default_config_hash: '--QiJW5B1HP-zk7CT8Ynow5HOOHceVBoCYN5yKXW36Y'
 id: bartik_branding
 theme: bartik
 region: header

@@ -9,7 +9,7 @@ dependencies:
     - file
     - path
 _core:
-  default_config_hash: UFXDqkMaCGpX2ZbXXHWaWbeCNkQjzxB5w0jPpsCoJFI
+  default_config_hash: _sKjDgyxUdNWXy9jnkaY0GPQT1DIWow576r6J8k6LIA
 id: media.audio.default
 targetEntityType: media
 bundle: audio

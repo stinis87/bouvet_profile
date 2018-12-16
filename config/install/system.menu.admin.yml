@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: sapEi2YDGoI9yQIT_WgIV2vUdQ6DScH0V3fAyTadAL0
+  default_config_hash: 7_rvibocs0gnHqLo0crSDhwemqyliZhw5hpCidiPYGk
 id: admin
 label: Administrasjon
 description: 'Lenker for administrativ oppgaver'

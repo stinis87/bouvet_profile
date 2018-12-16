@@ -6,7 +6,7 @@ dependencies:
     - comment
     - text
 _core:
-  default_config_hash: swYoCch_hY8QO5uwr4FURplfnUCUlpPB4idF8WGVCpw
+  default_config_hash: wUllYx3tofendNAzfRK8sKZ6vy0P8PTP6thY48zrvno
 id: comment.comment_body
 field_name: comment_body
 entity_type: comment

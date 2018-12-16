@@ -5,7 +5,7 @@ dependencies:
   module:
     - node
 _core:
-  default_config_hash: 6GCOQ-jP2RbdbHA5YWQ6bT8CfGbqrBYKOSC_XY4E3ZM
+  default_config_hash: tdA5mxciVm8Cy_weqOHqAfa_nCnlXiDlD4J5nNAntoY
 id: node.search_result
 label: 'Utheving av innskrevet søkeresultat'
 targetEntityType: node

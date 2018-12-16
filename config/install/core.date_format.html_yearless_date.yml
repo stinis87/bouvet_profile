@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: 5VpawMrKPEPCkoO4YpPa0TDFO2dgiIHfTziJtwlmUxc
+  default_config_hash: d2OIwtAIg0l4l-WDui_8E4qpUqGc6hZJ2fTZ6eEV3n4
 id: html_yearless_date
 label: 'HTML dato uten år'
 locked: true

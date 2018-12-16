@@ -7,6 +7,8 @@ dependencies:
   module:
     - entity_embed
     - media
+_core:
+  default_config_hash: g6GunX8EnX-tx-voiN9nRRnJzQ2_tOEKOv6PvI6wHBQ
 label: Bilde
 id: image
 type_id: entity

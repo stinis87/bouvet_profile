@@ -5,7 +5,7 @@ dependencies:
   module:
     - user
 _core:
-  default_config_hash: k3aUaZXGDuhkek2TZIee0PApOPTvYZLadziekdyHA5A
+  default_config_hash: XCFWNNuqjnAglOWgqDqJ3Kr8SJZvZ0mHeukUUGBcC-A
 id: user_search
 label: Brukere
 path: user

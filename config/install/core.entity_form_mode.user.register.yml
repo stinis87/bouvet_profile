@@ -5,7 +5,7 @@ dependencies:
   module:
     - user
 _core:
-  default_config_hash: flXhTcp55yLcyy7ZLOhPGKGZobZQJdkAFVWV3LseiuI
+  default_config_hash: Y-jAMira0OFSmZdi2G0_SIFza2kjcgOoMkPHOBjS-9I
 id: user.register
 label: Registrer
 targetEntityType: user

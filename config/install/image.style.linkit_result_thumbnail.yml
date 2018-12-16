@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: CMuvuRCfGZ5k3XgsXmkEc54rI8etDY1Qz2JP7JzKL-g
+  default_config_hash: 81A1KauXXa_MuLPsXAsI2zBukBykt-FAaKEbFTDABG4
 name: linkit_result_thumbnail
 label: 'Linkit result thumbnail'
 effects:

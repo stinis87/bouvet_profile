@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: M7yqicYkU36hRy5p9drAaGBBihhUD1OyujFrAaQ93ZE
+  default_config_hash: Db62BQpMNoKKAyHvpoCKjA2cW2U1Fr9j0XNYZQsmtE4
 id: html_time
 label: 'HTML tid'
 locked: true

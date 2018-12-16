@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: Q2Ra3jfoIVk0f3SjxJX61byRQFVBAbpzYDQOiY-kno8
+  default_config_hash: SIyEHxSe9akQ3fwwWIJ7_zTbnq9LRFOtoUgIwX1oD_Q
 id: main
 label: Hovednavigasjon
 description: 'Lenker for nettsted-deler'

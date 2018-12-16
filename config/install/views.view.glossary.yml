@@ -8,7 +8,7 @@ dependencies:
     - node
     - user
 _core:
-  default_config_hash: _12Vkw1VGBz_s0_W_LLVCrBPpioNSnB6zcd1lUAQubM
+  default_config_hash: t0LeSEXg9nDfbZ7UFjkNqtyRp3VV2kH0NGpkIT3eotk
 id: glossary
 label: Ordliste
 module: node

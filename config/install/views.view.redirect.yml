@@ -7,7 +7,7 @@ dependencies:
     - redirect
     - user
 _core:
-  default_config_hash: szL-A_Er9yaiA51EXGl3yYAj1T_LnNrYdxxY6UwRisU
+  default_config_hash: RmgdcoFoA0RG6LaLZiD2IJoGZCZHdKte0lSDd-8yFCY
 id: redirect
 label: Videresending
 module: views

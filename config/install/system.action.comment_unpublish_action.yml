@@ -5,7 +5,7 @@ dependencies:
   module:
     - comment
 _core:
-  default_config_hash: tWOIjSMobEWOFZddMkNqb9JySbOVwE1diC6NRqcfLTk
+  default_config_hash: qLa1yu0VIpNJ9x8_LmWs8R_Zfaqv8fSNJ3Ruu8OFNuY
 id: comment_unpublish_action
 label: 'Avpubliser kommentar'
 type: comment

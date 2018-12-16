@@ -6,7 +6,7 @@ dependencies:
     module:
       - devel
 _core:
-  default_config_hash: mYceWZ4FHflXMWwxiO7ePCeXvKMl9F-ARIQ9p4IpvWE
+  default_config_hash: PdPbkrnh09HomNQiPAhq6kAb-sk4pnN2KjZ-onq6_lw
 id: devel
 label: Utvikling
 description: 'Links related to Devel module.'

@@ -7,6 +7,8 @@ dependencies:
   module:
     - entity_embed
     - media
+_core:
+  default_config_hash: pEBKS04my7Cznc-a3blwv_67X9SjSw9eovE8X6w1mfw
 label: Dokument
 id: dokument
 type_id: entity

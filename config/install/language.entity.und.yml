@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: eNX6lLCKDaY83nCMh20My---y03KbiFlv802DKCCpvg
+  default_config_hash: YIMzmpvRcHhgniV3UnpDbcpG1pR6cnr7k6Z4GnmeK6M
 id: und
 label: 'Ikke angitt'
 direction: ltr

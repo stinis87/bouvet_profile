@@ -10,7 +10,7 @@ dependencies:
     - image
     - path
 _core:
-  default_config_hash: nZlttO4YMwMCpkhYMz7bQ1ZMjABGc59YY1us3eSfvTY
+  default_config_hash: wSReCd8an1z-iNYw-JqX4aIBSZZBWrVJ02bPzAxht2w
 id: media.image.default
 targetEntityType: media
 bundle: image

@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: 7klS5IWXrwzVaPpYZFAs6wcx8U2FF1X73OfrtTsvuvE
+  default_config_hash: v9w_3YUShNxJlZx4BriwWSLUuOo4bu1g4BlXjhsoNY8
 id: fallback
 label: Reservedatoformat
 locked: true

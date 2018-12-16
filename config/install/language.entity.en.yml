@@ -3,9 +3,9 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: lBXDpdDPXQtrfTJQhr6MjRJJEEyYSoRJ0acdvHLsWeA
+  default_config_hash: IhnpBO9W1qnEl8dYb9Zy-YnYH1UFRzFmymtKSzd7UuI
 id: en
-label: Engelsk
+label: English
 direction: ltr
 weight: 0
 locked: false

@@ -1,4 +1,4 @@
-uuid: bfda8c50-93b4-4ea6-8e42-91d0f83de8ee
+uuid: 7715ba5d-a750-422b-9299-f7c7cb79e416
 name: stinis
 mail: stinis87@gmail.com
 slogan: ''
@@ -8,7 +8,7 @@ page:
   front: /node
 admin_compact_mode: false
 weight_select_max: 100
-langcode: nb
-default_langcode: nb
+langcode: en
+default_langcode: en
 _core:
-  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
+  default_config_hash: hsBKrhfmjNBdYI-LzBe6Pdd0k--RejC7HdsRRraYZck

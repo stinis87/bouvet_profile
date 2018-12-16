@@ -5,7 +5,7 @@ dependencies:
   module:
     - language
 _core:
-  default_config_hash: PM2qJqRak_LRDoD905MdombBZUvJvM4ID29VbjtYcZA
+  default_config_hash: k81Gspw8aAKIoxob4e_SgVdchQoWjAPXijP506nxT2k
 id: language-add
 label: 'Legge til språk'
 module: language

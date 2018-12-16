@@ -5,7 +5,7 @@ dependencies:
   module:
     - media
 _core:
-  default_config_hash: nh83qNNrmWE-CDdHz2MdFOAk60T9mzv3R-MaKfZR2jw
+  default_config_hash: NLU0DuBEQrtVqNzTDFxft9j70qkktkZJy4cevbNUky4
 id: media_publish_action
 label: 'Publiser media'
 type: media

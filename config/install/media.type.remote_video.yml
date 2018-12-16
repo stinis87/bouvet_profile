@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: 2r_Yo2tYXnt7PLx1pnlr1JU3iHmnsoWFdzQFs2sUXGk
+  default_config_hash: rkoeAsBrk12Ng1hbe5-Ww6InjGyWA8R6gpe3_BonIHM
 id: remote_video
 label: 'Ekstern video'
 description: 'En ekstern video fra YouTube eller Vimeo.'

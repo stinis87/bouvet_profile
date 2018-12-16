@@ -7,6 +7,8 @@ dependencies:
   module:
     - entity_embed
     - media
+_core:
+  default_config_hash: noYIACKtwLuuoh8vQfPg_fnDWni3emKPGXlAUPeYv7k
 label: Video
 id: video
 type_id: entity

@@ -7,7 +7,7 @@ dependencies:
     - scheduler
     - user
 _core:
-  default_config_hash: 76OtYhIMKqji7okkzD9dtqaYCZyBjJdRFOsqJB1DDls
+  default_config_hash: ftGmFaJunGNv81Yc9nhi6xqOlR2NlAGkpiJ9_PIkRiw
 id: scheduler_scheduled_content
 label: 'Scheduled content'
 module: node

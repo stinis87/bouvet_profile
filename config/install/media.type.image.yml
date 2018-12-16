@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: u7OxrscEED35iDR3R0akmw7QNvBSMEPJXFtKP57qBh8
+  default_config_hash: OJNk7cP2bAeduh71orqM8E6hAcDZJOvKI6plVz7EzxY
 id: image
 label: Bilde
 description: 'Bruk lokale bilder for gjenbrukbare medier.'

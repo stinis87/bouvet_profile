@@ -9,7 +9,7 @@ dependencies:
   module:
     - node
 _core:
-  default_config_hash: pqZNtad5J9THcdbYjwPD4qINqvrTxnOd8KCWn6tUBRs
+  default_config_hash: Z0QeawzHJIfo3lFiNF-psfF_2EROoGId762g7l8E83w
 id: node.diff
 label: 'Revision comparison'
 targetEntityType: node

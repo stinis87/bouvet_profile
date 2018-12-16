@@ -7,7 +7,7 @@ dependencies:
   theme:
     - bartik
 _core:
-  default_config_hash: oXUb3JZR2WW5VOdw4HrhRicCsq51mCgLfRyvheG68ck
+  default_config_hash: Q3YB6NoM4WivP-lJTJkTY0sYnqKsvsIXOJl281z9LUg
 id: bartik_breadcrumbs
 theme: bartik
 region: breadcrumb

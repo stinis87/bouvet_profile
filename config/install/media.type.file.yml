@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: s6qJnINiq7zI-ZoQOXM_gtiDpIsHT3fm7RySP1F_BE0
+  default_config_hash: mfr0jGEVY2bssAbIFO6L76Vs-yPMGBLlrsb17tsAfG4
 id: file
 label: Fil
 description: 'Bruk lokale filer for gjenbrukbare medier.'

@@ -3,6 +3,6 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: U5VlGjd_SfV0Qm_EfnaynOfc549cNscFAx48JfYoMRI
+  default_config_hash: FPzGKjFQdbHs5euNo62Jfj5xek-nJ6zt9fBqaX7yir0
 id: default
 label: Standard

@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: jxfClwZIRXIdcvMrE--WkcZxDGUVoOIE3Sm2NRZlFuE
+  default_config_hash: gB8ozsbGwDUV1oHPY_j3zkMmq-1wbp1Y0XqpnlVyEHs
 id: html_datetime
 label: 'HTML dato og tid'
 locked: true

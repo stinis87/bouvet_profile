@@ -7,6 +7,8 @@ dependencies:
   module:
     - entity_browser_entity_form
     - views
+_core:
+  default_config_hash: l4QXtCL3AEUB0KCs1-PEEhMuJtA3sMBbRPjV8R2qfqg
 name: document
 label: Dokument
 display: iframe
