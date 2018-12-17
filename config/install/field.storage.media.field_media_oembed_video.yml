@@ -5,7 +5,7 @@ dependencies:
   module:
     - media
 _core:
-  default_config_hash: 9Plw_A1wLRBAVL7mZv_h9uo3iZxN-xIl4Lz_r-f10ag
+  default_config_hash: i5aA_QbHzXa5UPuB3F5XLoNVdh3brK1Lnc3GZ4INviU
 id: media.field_media_oembed_video
 field_name: field_media_oembed_video
 entity_type: media

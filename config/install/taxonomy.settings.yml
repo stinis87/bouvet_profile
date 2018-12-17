@@ -2,5 +2,5 @@ maintain_index_table: true
 override_selector: false
 terms_per_page_admin: 100
 _core:
-  default_config_hash: zTFBAUgLN6gi4daVBPHSY4rH75n_SIZbycHVAd14lbY
+  default_config_hash: 2NkwSddAtcVoT_p-tp8rvZhieNABTxX5H4NZrdNF5w0
 langcode: nb

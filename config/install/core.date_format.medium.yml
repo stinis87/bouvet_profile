@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: F-Avhv0XSb9VN1vYL0zTI4SESNgNB7XZxq3hLOJok18
+  default_config_hash: 4c16xEHLCt1VXThlm5cGew9bCJ0meuzpZS7B_UenDGU
 id: medium
 label: 'Standard mellomstor dato'
 locked: false

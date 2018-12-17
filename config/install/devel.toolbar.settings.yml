@@ -8,5 +8,5 @@ toolbar_items:
   - devel.route_info
   - devel.run_cron
 _core:
-  default_config_hash: C-gA0nyw_p87hhGmV8fKnq2RalI0E6TtdPJOEVbIh-4
+  default_config_hash: jH_VVF1FRx5EMhRNncrCddYtlBqw-VqL9_aQ_pQgWn8
 langcode: nb

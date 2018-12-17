@@ -9,7 +9,7 @@ dependencies:
   theme:
     - bartik
 _core:
-  default_config_hash: dYZalCWt1vY27d-gVMeTEKoXVw5hUfS9YUgwqYVNL20
+  default_config_hash: '-9m3rYABypqemrCSGHsSQBrbapE_HrTpFwk-A5vcIuU'
 id: bartik_tools
 theme: bartik
 region: sidebar_first

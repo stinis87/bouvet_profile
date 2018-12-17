@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: Ap5wOYJFE2MzZx-sh2vSdkP_AkN0v68iyTNgKjuLheU
+  default_config_hash: sZKnmFWpBMd7-BYtNvm2khSEPEsYSc52BjFc9jGHqHU
 id: user
 label: Bruker
 tags:

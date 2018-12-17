@@ -7,7 +7,7 @@ dependencies:
   theme:
     - bouvet
 _core:
-  default_config_hash: CEHw91Qd5saX0EqDwosTzDPeYBJhI_yBbVxOelRvhm0
+  default_config_hash: M3aH7671xCwZT8PejR7W4nAhsXbGYpUHH-M2Ol1u0e0
 id: bouvet_content
 theme: bouvet
 region: content

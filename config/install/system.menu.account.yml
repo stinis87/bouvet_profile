@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: Mg7WMggfU7x0QgnzlPO7_J4nEnJYNBuk-aoBcvmlUic
+  default_config_hash: XV0nM1s4f-X2KqJ1U1dHwMZHUU7GfQaLboFYpjXmuEI
 id: account
 label: Brukerkonto-meny
 description: 'Lenker knyttet til den aktive brukerkontoen'

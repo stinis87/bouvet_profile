@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: x3d1DRVVPL7UfUk7BovyhhqTHcZ5IFNitr3-dLmC6Gg
+  default_config_hash: 17fLu8S0kwyGa4SPoPizxRv_yY91Qq6aw3ln0BCFK0Y
 id: video
 label: Video
 description: 'En videofil som er lagret lokalt påserveren.'

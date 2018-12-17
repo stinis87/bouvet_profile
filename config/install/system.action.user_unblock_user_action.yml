@@ -5,7 +5,7 @@ dependencies:
   module:
     - user
 _core:
-  default_config_hash: nP8toZeO3wtytGVRGBOGXDmEQlnDkmPhathRSzpQ3Dw
+  default_config_hash: OJRHbXYH-S1llr4A1JV-IA32xq4AePRHZ3F_xciHfoQ
 id: user_unblock_user_action
 label: 'Unblock the selected user(s)'
 type: user

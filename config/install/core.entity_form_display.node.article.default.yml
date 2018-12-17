@@ -16,7 +16,7 @@ dependencies:
     - scheduler
     - text
 _core:
-  default_config_hash: tZIr4p_y6fQrSRo-qcU9VCK352lKxTrsTU6pbR5SrDg
+  default_config_hash: bycix3mQMyA56J3no3xRdT5bDm3WLv6BqqINyVfcEHw
 id: node.article.default
 targetEntityType: node
 bundle: article

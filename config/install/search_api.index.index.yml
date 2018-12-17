@@ -8,7 +8,7 @@ dependencies:
   config:
     - search_api.server.search
 _core:
-  default_config_hash: OZJSqM9teFzI08tEp7rhtRuzFEOs7_OObavLk-rf7Ag
+  default_config_hash: ZI6pLEAnTPAeclDMI8eYajEz1iN051ai_Kmjw4RZ1uU
 id: index
 name: Indeks
 description: ''

@@ -12,5 +12,5 @@ translation:
   path: sites/default/files/translations
   import_enabled: true
 _core:
-  default_config_hash: xeWKb04MibbqX5h7D5jpP-I-nErKSwYAVd9QSkqN5cA
+  default_config_hash: jHrgzEfaFz-36M2sdh-MYSJOddXsQYWOVx4C5tSTMFA
 langcode: nb

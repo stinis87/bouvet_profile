@@ -6,7 +6,7 @@ dependencies:
     - file
     - media
 _core:
-  default_config_hash: QF_Wlu-RV4SqzQtNjJTFhM77QGnqaPlWIaQZuzvmVbE
+  default_config_hash: MgcEq1Tt42RirIbluu8gkckOH0QqlM7gI6YlBK7dc0g
 id: media.field_media_video_file
 field_name: field_media_video_file
 entity_type: media

@@ -4,5 +4,5 @@ path:
   temporary: sites/default/files/tmp
 temporary_maximum_age: 21600
 _core:
-  default_config_hash: ualVr9rfXLPD8JtOgS0W1K6tklssug8jLYJSYqT_FWI
+  default_config_hash: oRO9hDhSwubD-5CD30SputtLKRk3Pt1bPqK-_7aTgg0
 langcode: nb

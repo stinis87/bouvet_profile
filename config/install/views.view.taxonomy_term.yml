@@ -9,7 +9,7 @@ dependencies:
     - taxonomy
     - user
 _core:
-  default_config_hash: 9wIRzjcyhSibZlCY1--DkuGcHsC-j0U9Pb0a0WqVWz0
+  default_config_hash: bUFuopwwMJQjCU9NlnbI0RZaGnCmvUx8f_5UCXYN8gY
 id: taxonomy_term
 label: Taksonomi-termer
 module: taxonomy

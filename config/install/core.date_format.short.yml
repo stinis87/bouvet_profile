@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: bK7YYNBigXgujzz1Sbrw4It9bv5hm9RBsboNRkgC-SY
+  default_config_hash: xIMRu5xb2W47_Dt13fBD2ipslhUuEpGJuR1WjRmji1k
 id: short
 label: 'Stadard kort dato'
 locked: false

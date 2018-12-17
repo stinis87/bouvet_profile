@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: 6W_0Dz9sj3CuHkrjiyRTCc0KYWq2p6otnzxaVrHmzz4
+  default_config_hash: 5pvCNWNUOLKtaiSjTjaMU5yyj9Im6uEFnqMcNFpFEjs
 id: feedback
 label: 'Website feedback'
 recipients:

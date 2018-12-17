@@ -27,4 +27,4 @@ status_canceled:
   subject: 'Kontoopplysninger for [user:display-name] på [site:name] (slettet)'
 langcode: nb
 _core:
-  default_config_hash: 2hxn9St9XFAtf1JrLwu8CfVoPadKzxmBVslbpO0aqcA
+  default_config_hash: 9DZKBaTc-NAF92n0-CovY_N33EAJSfl-gfsIttp4Ais

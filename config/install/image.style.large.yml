@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: 0EQxLlmGNnOd3iTATHBoGlL43zrZ7cXbE7cG2XBF2kE
+  default_config_hash: InhDtQutIRYjJ_N1jq1x1AYEKy3x0qnTSvmCFYIDjRs
 name: large
 label: 'Stor (480×480)'
 effects:

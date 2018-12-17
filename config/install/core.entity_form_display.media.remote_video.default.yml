@@ -9,7 +9,7 @@ dependencies:
     - media
     - path
 _core:
-  default_config_hash: aQxaWOHGa3FUw2Z5_tleHBk-ygsOCVeIDgkQs5JX0D8
+  default_config_hash: J9bqF3pk8cXPVGHUFGtfciL5G-tnIspWxqsjRDLFljQ
 id: media.remote_video.default
 targetEntityType: media
 bundle: remote_video

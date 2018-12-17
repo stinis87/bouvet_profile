@@ -8,7 +8,7 @@ dependencies:
     - image
     - user
 _core:
-  default_config_hash: r6HDGN9A0Uv0ZpJpfZ12WsYnnzk6vR9Tx-H4UFXz2e0
+  default_config_hash: psZ_7e0AOPSPU0qmDX-5xoH0-ktQjvLeatrOX8CRMZk
 id: user.user.user_picture
 field_name: user_picture
 entity_type: user

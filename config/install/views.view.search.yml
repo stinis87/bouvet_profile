@@ -7,7 +7,7 @@ dependencies:
   module:
     - search_api
 _core:
-  default_config_hash: 0zWMp0DOqKZSgvkKAyqPzWRBwAbVsILtyZbwD5WsQvQ
+  default_config_hash: w-9WrNRhTC6ojJFZ2uuEp59bqsZc7rzG-esrjkhvtro
 id: search
 label: Søk
 module: views

@@ -5,7 +5,7 @@ dependencies:
   module:
     - node
 _core:
-  default_config_hash: lRy7PEzX1TJoFSquuqHXGTkgTzZ3P3jZrTfdm1wR_GM
+  default_config_hash: lIosMq-S_EjifT0xlO0m-Oz3v3GKZxmhHZGatD3oNow
 id: node.teaser
 label: Ingress
 targetEntityType: node

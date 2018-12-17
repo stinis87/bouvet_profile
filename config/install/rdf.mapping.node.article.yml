@@ -7,7 +7,7 @@ dependencies:
   module:
     - node
 _core:
-  default_config_hash: 5BlxQrdHU-oa5HW-tKULaVaHJ_q_uKTxqGD6lmYyDfE
+  default_config_hash: KkDO-5tM9OkzaLgzWCboFMLO2l0kPTlDPcobF__bq8M
 id: node.article
 targetEntityType: node
 bundle: article

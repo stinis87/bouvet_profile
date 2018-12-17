@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: At_PvUfdwuW3BAZJzgwsvTYC7oygR8qpNkuYtsu-7EI
+  default_config_hash: kwTKprrXcyp4whdDYare1LOel35GuAzJmfLNRbWO1GE
 id: '403'
 label: '403 access denied'
 tags:

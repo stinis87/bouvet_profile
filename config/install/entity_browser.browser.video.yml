@@ -9,7 +9,7 @@ dependencies:
     - entity_browser_entity_form
     - views
 _core:
-  default_config_hash: l0S-fx_iwTCCyTPSttMK5Q3WnM1eV0A_r0HuGc1JsmA
+  default_config_hash: yN69nKaJ907vC3mTQuSNDTN7WwivIFouoTbRBkLCv_Y
 name: video
 label: Video
 display: iframe

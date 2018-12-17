@@ -5,7 +5,7 @@ dependencies:
   module:
     - search_api
 _core:
-  default_config_hash: bfr-VD48uZzm-mNRi6TtHAqG7f6HopdiAjGy7AbRAmA
+  default_config_hash: qm1lD5jgVRAwDzNIS_CyJXNZfIUQiPS1Ccx7nfpi-cM
 id: search-api-server
 label: 'Information about a server'
 module: search_api

@@ -5,7 +5,7 @@ dependencies:
   module:
     - comment
 _core:
-  default_config_hash: xs_s65hiR_z_M51FtkQVvQLhQPIvss3R07gAmGj6Do0
+  default_config_hash: r1spUFp1BbKKD2YL6O47lJP-z2pAJAXq80MYz7XdVPs
 id: comment_save_action
 label: 'Lagre kommentar'
 type: comment

@@ -1,5 +1,5 @@
 interface:
   default: php_mail
 _core:
-  default_config_hash: u_8LWWbL0CrS90G1sq0Yqp0X_ZBdJfsGhf9vCJXLmQY
+  default_config_hash: V8uKz0lu7oDlhScDL8OrmRTe1XGOJqiYilzqSvYh3c8
 langcode: nb

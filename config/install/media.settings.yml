@@ -2,5 +2,5 @@ icon_base_uri: 'public://media-icons/generic'
 iframe_domain: ''
 oembed_providers_url: 'https://oembed.com/providers.json'
 _core:
-  default_config_hash: s_Ka6z4J1XTJOYdY-tBWR189kFnwHygAKHK9VMJPxcQ
+  default_config_hash: wqm8R9a8a3hHOZLCCJ37u_7lezwvm4XwqpVW0L1z0zM
 langcode: nb

@@ -8,7 +8,7 @@ dependencies:
   module:
     - file
 _core:
-  default_config_hash: Bfn5xET8iKWacUQ8o21vOeqgzG6yeAUT-W4dK9xGFGs
+  default_config_hash: JKfmbDKwJeFF3d3qPzPzMD7ZNE0buFlSu7v8Xds7sBI
 id: media.audio.field_media_audio_file
 field_name: field_media_audio_file
 entity_type: media

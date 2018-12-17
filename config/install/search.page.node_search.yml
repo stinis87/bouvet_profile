@@ -5,7 +5,7 @@ dependencies:
   module:
     - node
 _core:
-  default_config_hash: CbI_QCx3NnCvCXXrrnQz_iAogSFkRDI74_6hTxFRyRQ
+  default_config_hash: jnnMeadcbDh7YJ3tKRLgyTW9FFI6gAAqv6csu8vJsjs
 id: node_search
 label: Innhold
 path: node

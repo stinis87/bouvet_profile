@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: tKWKLi6CHlJff7bM2VQs1eVnCF3BL91pnDRHbamNP0A
+  default_config_hash: PhbwiRYvfING6UC9T8MDuNhATj8TVlX9ryc_TAYToC4
 id: footer
 label: Bunntekst
 description: 'Lenker for sideinformasjon'

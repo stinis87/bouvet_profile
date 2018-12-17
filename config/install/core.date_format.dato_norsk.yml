@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: INuM3ZjqXrmyvvO4v5SsaAEwpJ4aKNl4cFYi4ssbjoI
+  default_config_hash: PrpPTcqd2CbLnIQ72NdPQPAJsCNA_Z_mkByTQbqvt7Q
 id: dato_norsk
 label: dato-norsk
 locked: false

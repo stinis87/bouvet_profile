@@ -3,5 +3,5 @@ cron_worker_runtime: 15
 default_tracker: default
 tracking_page_size: 100
 _core:
-  default_config_hash: Rv-Di2A64l57tPghGUg7qtBR1pRWmHujn2SWhUI5QFo
+  default_config_hash: zC0eku0HpPvyasc1HpTI0fd0wa2wywT81QbCg8ZPHQA
 langcode: nb

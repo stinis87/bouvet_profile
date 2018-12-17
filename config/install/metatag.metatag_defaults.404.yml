@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: QXad1EwPx1ZgbRzbBTZr9DF74bhW9ifPmRGh7ouzVzk
+  default_config_hash: 0BQwCwN21wAS-YPhRo588t1b9-ELkcwDnxCRMRVyYI8
 id: '404'
 label: '404 page not found'
 tags:

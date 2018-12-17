@@ -5,7 +5,7 @@ dependencies:
   module:
     - media
 _core:
-  default_config_hash: Um41seQZpyJa8uriEatS4JT2hjtSsfG0DrKUILViFaM
+  default_config_hash: 28mzopQYRZPAr7eLLOioJJcXBuieHkXcdBJfUGogkJo
 id: media_unpublish_action
 label: 'Avpubliser media'
 type: media

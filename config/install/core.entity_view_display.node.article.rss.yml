@@ -12,7 +12,7 @@ dependencies:
   module:
     - user
 _core:
-  default_config_hash: WhMHeupjpc3Erzl7tIIou8iASgzAjj2Qo0nXimp-qLY
+  default_config_hash: C360knBqF65fRKjhNUoJAjK8L3wkWnuTT6bg284SguI
 id: node.article.rss
 targetEntityType: node
 bundle: article

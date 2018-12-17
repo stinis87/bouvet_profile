@@ -14,5 +14,5 @@ js:
   gzip: true
 stale_file_threshold: 2592000
 _core:
-  default_config_hash: eslcW6OKen7frk9z3r96_iCppZ7fgxyG7j_AIq2hE_Q
+  default_config_hash: 50WQv8R55ZxH_ceQt081nAfK8cVNWxt-Q_kCbct7jpI
 langcode: nb

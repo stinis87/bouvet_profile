@@ -5,7 +5,7 @@ dependencies:
   module:
     - user
 _core:
-  default_config_hash: TlsVMdrOaaBJyeMAgnuQEdavTvy1HJiyPvPz-g-mClI
+  default_config_hash: OIjKN6NHSVDueohRZranQ8qZVAUR6NA53f9Hdd5zkpo
 id: who_s_online
 label: 'Blokk som viser hvem er pålogget'
 module: user

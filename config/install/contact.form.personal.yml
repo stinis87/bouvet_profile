@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: plqAWZLsR2IKAX8DmQg8e0W7LScB4vn-Ym2fnzEl9n8
+  default_config_hash: 4CQiCOBvelZ2ATq2C4UINf4rjKHQEr27CbEdqaSHEgg
 id: personal
 label: 'Personlig kontaktskjema'
 recipients: {  }

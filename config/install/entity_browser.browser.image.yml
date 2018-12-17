@@ -8,7 +8,7 @@ dependencies:
     - entity_browser_entity_form
     - views
 _core:
-  default_config_hash: kgcHR83Y9E4dv-p2wCG-DAdSoMDxVRKxcH8NzXG-z3I
+  default_config_hash: qPDpPoiVjF74VUjoyqv4Qt2tSPcB8CBPVeVp13eT-Pw
 name: image
 label: Bilde
 display: iframe

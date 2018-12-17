@@ -5,7 +5,7 @@ dependencies:
   module:
     - media
 _core:
-  default_config_hash: fQ085Jug3XcUPXkqrOzpvdgklo_iCkUqGR_EaTzK98Y
+  default_config_hash: rWCHMP2NwHQs3hgrAuEeOMwWakgy5J_9SwNkgMm2yLI
 id: media_delete_action
 label: 'Slett media'
 type: media

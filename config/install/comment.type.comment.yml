@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: oi7X2QbFOUS7T3Zny1qshUMDpwpPEjAdE-KSqUvhaH0
+  default_config_hash: 4W8dn0gWGqbdxA6EAMLvolEG7xg6AA7UnId0CSZO8VI
 id: comment
 label: 'Standard kommentarer'
 target_entity_type_id: node

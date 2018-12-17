@@ -5,7 +5,7 @@ dependencies:
   module:
     - search_api
 _core:
-  default_config_hash: Ws8qGZwoNIPHwAqltwWYVnSJGWyVrbKyBQi3kCiWxvE
+  default_config_hash: MejuDLFA7p-1QqdR4vSIrqnJNSHvUbRpjw0oxaNtD4M
 id: search-api-index-fields
 label: 'Fields indexed in this index'
 module: search_api

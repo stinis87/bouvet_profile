@@ -5,7 +5,7 @@ dependencies:
   module:
     - locale
 _core:
-  default_config_hash: FmZ1Dm4VSeavSvI_WtGEQ3UP_4fU3EvNmAQa34cJGng
+  default_config_hash: dfzX6HtXToCYvt8xyQBo-z6AoxrQ_Psm3fHyseCh_vI
 id: locale
 label: Oversettelse
 module: locale

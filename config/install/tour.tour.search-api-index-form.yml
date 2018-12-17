@@ -5,7 +5,7 @@ dependencies:
   module:
     - search_api
 _core:
-  default_config_hash: XDBZ7vCUnYSJT_7a8MAsg2RQFuu7iU5DrM2PBDkYYIw
+  default_config_hash: 8DODKd8FETUHecHQS4tvN-D4vCl_DAf7sUghxnJAPNE
 id: search-api-index-form
 label: 'Add or edit a Search API index'
 module: search_api

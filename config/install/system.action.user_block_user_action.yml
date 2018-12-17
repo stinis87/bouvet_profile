@@ -5,7 +5,7 @@ dependencies:
   module:
     - user
 _core:
-  default_config_hash: TP2Z817ci4X926gGfGypGY1-z-CRNJ9Ow_kUCl2KnIk
+  default_config_hash: HSGWA3pcyBxm9TSgjHs1vdPe-uwyKWgZC1l9udj2Ovw
 id: user_block_user_action
 label: 'Block the selected user(s)'
 type: user

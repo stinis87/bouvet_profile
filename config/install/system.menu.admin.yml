@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: 7_rvibocs0gnHqLo0crSDhwemqyliZhw5hpCidiPYGk
+  default_config_hash: 4IUAaV2M0cO5UjaQzbfaweqRyPQyvzasl5QEHiO_ITQ
 id: admin
 label: Administrasjon
 description: 'Lenker for administrativ oppgaver'

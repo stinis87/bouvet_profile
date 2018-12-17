@@ -5,7 +5,7 @@ dependencies:
   module:
     - comment
 _core:
-  default_config_hash: WW1vLn5vrV2o2Mvx-gWyq6nKjQWMzVMFbbsdieAvPKo
+  default_config_hash: csvR2EAB3pv4k9UWl4UhH2d-0X_t7XH4msy-Q7O9_3U
 id: comment_delete_action
 label: 'Slett kommentar'
 type: comment

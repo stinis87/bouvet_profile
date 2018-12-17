@@ -9,7 +9,7 @@ dependencies:
     - file
     - path
 _core:
-  default_config_hash: Z-9sS8YCatHHvXlXqZM7HYkKwidHoxRuNRz6aaKOW3A
+  default_config_hash: jv52u-LjMvdaUFKkaJOBEnhD5hQVzGBi1KhHdCuadY4
 id: media.file.default
 targetEntityType: media
 bundle: file

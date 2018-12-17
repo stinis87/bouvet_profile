@@ -5,7 +5,7 @@ dependencies:
   module:
     - file
 _core:
-  default_config_hash: YB7d25JqISmcyA6BmzuymHMeYwckjN9wlF3AhlVy20o
+  default_config_hash: laovV1iwDObGcHv8AmBvteRRudBe7Zfpw7SpC0Qw_Q0
 id: document
 label: Dokument
 description: ''

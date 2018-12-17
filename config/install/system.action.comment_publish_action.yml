@@ -5,7 +5,7 @@ dependencies:
   module:
     - comment
 _core:
-  default_config_hash: Mgly2__X_taJbwpcmWme-lvQC76cpzsfcBT-takgzcA
+  default_config_hash: HaQ7BNm0IFFQn7g4R_vXfIkHp6LNylqFv5SuGSSNM1A
 id: comment_publish_action
 label: 'Publiser kommentar'
 type: comment

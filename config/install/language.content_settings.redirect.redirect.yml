@@ -5,7 +5,7 @@ dependencies:
   module:
     - redirect
 _core:
-  default_config_hash: 9QvmQbAM8a4dOZwbB5VOTyy5qByEkKLQkpDIlEUMTiQ
+  default_config_hash: 636jcZnToWftkQiUjeCASXBOh5rUUaXw7_uw4P7nfaI
 id: redirect.redirect
 target_entity_type_id: redirect
 target_bundle: redirect

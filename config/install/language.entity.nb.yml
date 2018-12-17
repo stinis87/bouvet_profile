@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: uGaZs49G9MZvoa3S8V6Q3yh8AMhSNeuxVo0Bz9J4980
+  default_config_hash: a3Agqf5M_Kg6IDwk9av18HDIvG5x2QC3UWYcSXG5Wzw
 id: nb
 label: 'Norwegian Bokmål'
 direction: ltr

@@ -6,7 +6,7 @@ dependencies:
     - file
     - media
 _core:
-  default_config_hash: b4Tp0YFvuKliFGJLcvkUFrBOxsj5oKnAivF8yPqSpMQ
+  default_config_hash: 0MnEinVHwrOcfMT8-8ZHcBf9DOBb-Zq6v0CrnXet858
 id: media.field_media_audio_file
 field_name: field_media_audio_file
 entity_type: media

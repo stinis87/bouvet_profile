@@ -5,7 +5,7 @@ dependencies:
   module:
     - node
 _core:
-  default_config_hash: DhlTI5-kHG96sSWNNMW2mEbWC8YTvtvNi-6hdruTAao
+  default_config_hash: 4S9XwniKlt-PkcytzB5ApQlEis6jeb0IZrLH6hdnGvo
 id: node.search_index
 label: Søkeindeks
 targetEntityType: node

@@ -1,5 +1,5 @@
-uuid: 7715ba5d-a750-422b-9299-f7c7cb79e416
-name: stinis
+uuid: 22803c04-36ae-494e-bc2a-fd68a130b3a2
+name: drupal
 mail: stinis87@gmail.com
 slogan: ''
 page:
@@ -9,6 +9,6 @@ page:
 admin_compact_mode: false
 weight_select_max: 100
 langcode: en
-default_langcode: en
+default_langcode: nb
 _core:
-  default_config_hash: hsBKrhfmjNBdYI-LzBe6Pdd0k--RejC7HdsRRraYZck
+  default_config_hash: 1bBA2xfM_bUEtqDeOqnd00x4_DCpz9dgxfnBffTycIU

@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: xcqwtgOcgAN4Hm-WXlbGgyC-ZxBfiZBLLREMpl48Efw
+  default_config_hash: SRIBGpoBDaMLnGplpgCuxIjZtDjzBH9tyGvChqie2p0
 name: medium
 label: 'Mellomstor (220×220)'
 effects:

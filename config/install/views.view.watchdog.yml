@@ -6,7 +6,7 @@ dependencies:
     - dblog
     - user
 _core:
-  default_config_hash: 8RWXuUkP2UFhug9DZmmNv0V9CVn1Cp8KWEdSakwA9wo
+  default_config_hash: c27D0E7JuEuYCuoRDMSlWhjQIITnj5fGe7wQ49L9Jz0
 id: watchdog
 label: Vakthund
 module: views

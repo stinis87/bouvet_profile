@@ -9,5 +9,5 @@ notification:
   emails: {  }
   threshold: all
 _core:
-  default_config_hash: P6Pn_7i7PTmQGXByJV2qPViBv87GAryDtNULFtSQJIk
+  default_config_hash: J-NDiAomYhE4HRngsevhDSEp9GysZMY5D0tUirb8pro
 langcode: nb

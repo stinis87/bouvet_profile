@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: rhuwdAvxpCedogm3tFZxFaBdvyPkl0dv7nRrQ30Vk6w
+  default_config_hash: GXFTuSN8Zb1f_uGBO6RnMWojEK1pxvwIO8vq9NJRpwQ
 id: html_week
 label: 'HTML uke'
 locked: true

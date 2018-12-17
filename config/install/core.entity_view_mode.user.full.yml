@@ -5,7 +5,7 @@ dependencies:
   module:
     - user
 _core:
-  default_config_hash: KBpwDJQcTNrLfSToLDgfTUNtmI5P68O6ViDTf-8WqOI
+  default_config_hash: ptbOkclSVM-jjIUXrXp5FugHS4Z4Nnf8TSvvCtq-HMs
 id: user.full
 label: Brukerkonto
 targetEntityType: user

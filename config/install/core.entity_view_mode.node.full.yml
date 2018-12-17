@@ -5,7 +5,7 @@ dependencies:
   module:
     - node
 _core:
-  default_config_hash: QZnSn9tA1lJSpEEoeGPSrNRx80_m8536Alk-Ag2kQxw
+  default_config_hash: jMlFESGXwtQ87o8x10DU8OPgORcVqATeU9ie6wvqF6k
 id: node.full
 label: 'Fullstendig innhold'
 targetEntityType: node

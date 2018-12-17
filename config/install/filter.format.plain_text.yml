@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: XZmAYtQXQoySv5uwInWSUttHNER4W23D0EQ3mrUBS2c
+  default_config_hash: zX60-b42bSA0yBRgbimNveWkv60XO2mkkReYAeJI0wA
 name: 'Ren tekst'
 format: plain_text
 weight: 10

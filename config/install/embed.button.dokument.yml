@@ -8,7 +8,7 @@ dependencies:
     - entity_embed
     - media
 _core:
-  default_config_hash: pEBKS04my7Cznc-a3blwv_67X9SjSw9eovE8X6w1mfw
+  default_config_hash: '-J-UUOPMiQqokdQL4h9onqYc93nKX_5KNpsxneJnasw'
 label: Dokument
 id: dokument
 type_id: entity

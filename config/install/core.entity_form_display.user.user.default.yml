@@ -10,7 +10,7 @@ dependencies:
     - path
     - user
 _core:
-  default_config_hash: Xt7M4Yk4ZUtdjrBAt9uqsTFO52eAXOQmzKqAJeszGTg
+  default_config_hash: M06G5Zo-JMiQ8_4PHJKOn6tCgv0JRKkrCbNFCJxfmIg
 id: user.user.default
 targetEntityType: user
 bundle: user

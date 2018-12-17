@@ -6,7 +6,7 @@ dependencies:
     - redirect_404
     - user
 _core:
-  default_config_hash: dS4UJEacJv5zM3Y9iXzIKF_WUuwlsLchbxiiVuMrLAU
+  default_config_hash: zKCORD1ANlftjTyeeMhHtwB6BswFbaK8hSOp3k7uDko
 id: redirect_404
 label: 'Redirect 404'
 module: views

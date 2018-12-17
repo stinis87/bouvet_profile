@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: 6xTvuYXYc_T_RiWTAW594KjLMtSqsvfPDYItUxoO9Hc
+  default_config_hash: yvmhPvkFbmRyMNEXtlGWfB0gCtQ4686jDvBmJA3q3Xg
 name: Stikkord
 vid: tags
 description: 'Use tags to group articles on similar topics into categories.'

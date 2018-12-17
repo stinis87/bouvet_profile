@@ -3,7 +3,7 @@ langcode: nb
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: eNyasnRR4VINHeHQWrE3D6CvMKHgzynL3uoa4xkZX6g
+  default_config_hash: OmcPRps4Pxd1pzzboCJn4MDkfIq0U9kzMZ14BR7eZb8
 id: long
 label: 'Standard lang dato'
 locked: false

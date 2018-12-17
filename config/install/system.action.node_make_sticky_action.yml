@@ -5,7 +5,7 @@ dependencies:
   module:
     - node
 _core:
-  default_config_hash: MS-0v013Fk-9egD-e8-f47a1EHvypYAzSpTWEFEZKcc
+  default_config_hash: tfvM7iqpDiS19iJHz_rpa5Nb__hv02RFIqI7O5Zixqg
 id: node_make_sticky_action
 label: 'Make content sticky'
 type: node

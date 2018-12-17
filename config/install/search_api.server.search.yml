@@ -5,7 +5,7 @@ dependencies:
   module:
     - search_api_db
 _core:
-  default_config_hash: UTZZYhXjwoZRxu6LDgEHszLsTZk9c8IeP658SwnUy78
+  default_config_hash: VHcX4LxkTF1vZgAcvc6txpN3b_SO-KF1C9emUhPIzPk
 id: search
 name: Søk
 description: ''

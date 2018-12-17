@@ -5,5 +5,5 @@ icon:
   directory: core/modules/file/icons
 make_unused_managed_files_temporary: false
 _core:
-  default_config_hash: 3jkqRLfWkPcAqIo8b_gf-nH5q7-oQkrZpqKdcHTk0dk
+  default_config_hash: nn0KAsAx7-nIT06o962im80FlGqbIuWrTzBfmR_AxVw
 langcode: nb

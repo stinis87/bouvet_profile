@@ -5,7 +5,7 @@ dependencies:
   module:
     - media
 _core:
-  default_config_hash: wF1Jk4ICMhiO_Pi_B4Z1jwA-Exmv4A8s2x5pk0KAgR8
+  default_config_hash: FkzvrcDrQkmmo_Xfx6whc2cwNeflMu17nJebR8g9lsg
 id: media.full
 label: 'Fullstendig innhold'
 targetEntityType: media

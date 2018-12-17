@@ -5,7 +5,7 @@ dependencies:
   module:
     - node
 _core:
-  default_config_hash: 8gzJUrLRJvjQB6yyl4JOOd0OkyXnhyQCBFTuGUGME7I
+  default_config_hash: '-dTukbO7GsnCGKHiwv3xctTuxtiAgNHAjlbouqgOiYY'
 id: node_delete_action
 label: 'Slett innhold'
 type: node

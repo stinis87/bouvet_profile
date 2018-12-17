@@ -10,7 +10,7 @@ dependencies:
     - scheduler
     - text
 _core:
-  default_config_hash: J-kE8aRVeh982irCMHVRDrXqw2dImJslztUv53ZewRA
+  default_config_hash: PpiCmUS9UD3K63HSpZRDWlxkyGXyRxd0ss3xo41lgNY
 id: node.page.default
 targetEntityType: node
 bundle: page
