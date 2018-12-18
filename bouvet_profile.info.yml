@@ -75,6 +75,8 @@ dependencies:
   - menu_link_content
   - pathauto
   - views
+  - crop
+  - focal_point
 themes:
   - stable
   - classy

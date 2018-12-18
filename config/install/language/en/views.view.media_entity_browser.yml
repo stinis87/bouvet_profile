@@ -1,0 +1,36 @@
+label: Media
+display:
+  default:
+    display_title: Master
+    display_options:
+      exposed_form:
+        options:
+          submit_button: Apply
+          reset_button_label: Reset
+          exposed_sorts_label: 'Sort by'
+          sort_asc_label: Asc
+          sort_desc_label: Desc
+      pager:
+        options:
+          tags:
+            previous: '‹ Previous'
+            next: 'Next ›'
+            first: '« First'
+            last: 'Last »'
+          expose:
+            items_per_page_label: 'Items per page'
+            items_per_page_options_all_label: '- All -'
+            offset_label: Offset
+      fields:
+        name:
+          label: Tittel
+          separator: ', '
+        thumbnail__target_id:
+          separator: ', '
+      title: Media
+  entity_browser_document:
+    display_title: 'Entity browser (dokument)'
+  entity_browser_image:
+    display_title: 'Entity browser (bilde)'
+  entity_browser_video:
+    display_title: 'Entity browser (video)'

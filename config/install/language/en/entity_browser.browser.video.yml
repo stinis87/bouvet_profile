@@ -1,0 +1,8 @@
+label: Video
+widgets:
+  e9fdd4a2-1cff-4d38-97fb-5841883845ab:
+    label: 'Last opp video'
+  b607591b-83d2-4b15-b2d8-540ae46894ed:
+    label: 'Embed video'
+  b39bf289-4aa7-438b-8b7a-d2dbecb23e7f:
+    label: 'Velg eksisterende video'
