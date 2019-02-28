@@ -5,11 +5,11 @@ dependencies:
   module:
     - system
   theme:
-    - bouvet
+    - bouvet_theme
 _core:
   default_config_hash: iDnHN8UliUUjFo-sgY4tVFcRMeb-JVA1fGlcAgPT1Vo
-id: bouvet_messages
-theme: bouvet
+id: bouvet_theme_messages
+theme: bouvet_theme
 region: highlighted
 weight: 0
 provider: null
