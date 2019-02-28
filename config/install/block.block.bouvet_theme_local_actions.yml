@@ -3,11 +3,11 @@ langcode: nb
 status: true
 dependencies:
   theme:
-    - bouvet
+    - bouvet_theme
 _core:
   default_config_hash: bnH2bVYzb4jWV9XGepcyALLXYQcsrI9oOGgUBN-WTDM
-id: bouvet_local_actions
-theme: bouvet
+id: bouvet_theme_local_actions
+theme: bouvet_theme
 region: content
 weight: -20
 provider: null
