@@ -5,11 +5,11 @@ dependencies:
   module:
     - system
   theme:
-    - bouvet
+    - bouvet_theme
 _core:
   default_config_hash: 63lCNnM6tsrJ16hT4O5ELWtKNeu4MiraTdIbmpdEbhA
-id: bouvet_breadcrumbs
-theme: bouvet
+id: bouvet_theme_breadcrumbs
+theme: bouvet_theme
 region: breadcrumb
 weight: 0
 provider: null
