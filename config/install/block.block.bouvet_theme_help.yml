@@ -5,11 +5,11 @@ dependencies:
   module:
     - help
   theme:
-    - bouvet
+    - bouvet_theme
 _core:
   default_config_hash: JYITQ5PKSWJ-yDPzvnX6tH4kPihsNrBfsY3j6m8z-90
-id: bouvet_help
-theme: bouvet
+id: bouvet_theme_help
+theme: bouvet_theme
 region: content
 weight: -30
 provider: null
