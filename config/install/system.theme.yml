@@ -1,5 +1,5 @@
 admin: seven
-default: bouvet
+default: bouvet_theme
 _core:
   default_config_hash: TM0B55gHfFhFRxTwuM_0r3G52c_yKBaP9gTO00kdeF8
 langcode: nb
